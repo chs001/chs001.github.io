@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CompleteHealth Solution",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -20,10 +20,12 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#2e2e2e"
+      ]
     },
     "versionFirst": "4.3.4",
-    "uniqCompNum": 175,
+    "uniqCompNum": 180,
     "versionPublish": "4.3.4",
     "favicon": "",
     "noImageResize": "",
@@ -266,9 +268,9 @@
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "testimonial": [
             {
-              "authorName": "Isaac I. Ajisafe (C.E.O)",
+              "authorName": "CompleteHealth Solutions Team",
               "authorBio": "User",
-              "text": "<p>Hello there, I’m Isaac I. Ajisafe and I welcome you with much Joy to CompleteHealth Solution Integrated Services, where your health issues are addresed</p><p>Here in CompleteHealth Solution, we give you pieces of Health Advice, get you Informed about various Sickness, how you can prevent them and how you can get rid of them, and Free Health Consultation Services, providing you an opportunity to ask questions about health issues bothering you. Once again, You’re welcome to CompleteHealth Solution.</p>",
+              "text": "<p>Hello there, we welcome you with much Joy to CompleteHealth Solutions Integrated Services, where your health issues are addresed.</p><p>Here in CompleteHealth Solutions, we give you pieces of health advice, get you informed about various sicknesses, how you can prevent them and how you can get rid of them, as well as Free Health Consultation Services, providing you an opportunity to ask questions about health issues bothering you. Once again, You’re welcome to CompleteHealth Solutions.</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -598,7 +600,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solution</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solutions</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-d"
         }
@@ -657,7 +659,7 @@
             }
           },
           "title": "About Us",
-          "text": "<p>    &nbsp;&nbsp;&nbsp;&nbsp;It has been discovered that virtually everybody at one point or another has one particular health challenge or another, either he or she knows it or not. CompleteHealth Solution is here to assist you in achieving that sound health you require to live a fullfilled life. This page talks on what we stand for; I hereby urge you to read on.</p>",
+          "text": "<p>    &nbsp;&nbsp;&nbsp;&nbsp;It has been discovered that virtually everybody at one point or another has one particular health challenge or another, either he or she knows about it or not. CompleteHealth Solutions is here to assist you in achieving that sound health you require to live a fulfilled life. This page talks on what we stand for; I hereby urge you to read on.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -812,6 +814,79 @@
           ],
           "_name": "content5",
           "_anchor": "content5-3k"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.7"
+          },
+          "title": "What We Have For You&nbsp;",
+          "caption": "<p><b>HERBAL AND DIETARY SUPPLEMENTS</b></p><p>An unbalanced diet can lead to deficiencies in the key nutrients that our bodies need: macronutrients, micronutrients and phytonutrients. These nutrients are universal and needed by everyone, regardless of age or lifestyle. To help bridge this dietary gap, CompleteHEALTH introduces a set of complementary products which combine to support your nutritional needs. \n</p><p>As a vitamin and dietary supplements brand we provide a complete range of nutrition and well-being products, including essential vitamins and minerals, antioxidants, herbal supplements, sports nutrition and meal replacements.  \n</p><p><br></p><p><b>QUALITY HEALTHCARE EQUIPMENTS</b></p><p>Our quality healthcare equipments provides quality messaging and therapeutic services. We are equipped with the most advanced facility &amp; modern machines useful for additional services such as massaging as well as therapy. With a well built standards devices and processing procedures your health progress is monitored and solutions are recommended. Each product and equipment has its own Standard Operation Procedure (SOP)</p><p><br></p><p> \n<span style=\"font-size: 1.07rem;\"></span></p><p><b>DIAGNOSIS AND CONSULTATION</b></p><p>With the aid of our state-of-the-art equipment and trained healthcare personnel we examine our clients to identify the nature, history, character or causes of their diseases from its signs or symptoms, and decide the most appropriate medication.\n</p><p>Each consultation provides you with the opportunity of meeting our best team of specialist who has recorded previous success in handling your case type owing to years of research and experience of extensive nutritional therapy.\n</p><p>We know that disease is defeat. Health alone is victory. \n</p><p>Book a \"victory' consultation meeting with any of our specialist now!\n</p><p>Name .......................\n</p><p>Location................... \n</p><p>Preferred Date of Consultation ..................\n</p><p>Preferred Time for  consultation.................. \n</p><p>Phone Number......................... \n</p><p>Email.............................\n</p><p>You can send your mesage by filling out the contact form on our contact page. You may as well call us directly to book your consultation.</p><p>We will contact you in 24 hour\n</p><p>We look forward to seeing you&nbsp;</p><p><br></p><p><b>MASSAGING AND THERAPY</b></p><p>As part of our effort to detect the presence of chronic diseases and the causes we conduct COMPREHENSIVE MEDICAL CHECK-UP using our state-of-the-art medical facilities that scans and detect the functionality status of about twenty-seven (27) vital organs in the body at affordable price. Our messagers uses both acupressure and massage practices to massage the body thereby causing increased energy, improved immunity and muscle tones. \n</p><p>Among other professional medication interventions, the following organs of the body will be scanned: Cardiovascular and cerebrovascular; Liver, Lung Kidney, Gastrointestinal, Gallbladder, Pancreatic and Male sexual functions; Rheumatoid/Bone diseases &amp; mineral density, Blood Sugar, Vitamin, Coenzyme, Immune system, Basic physical qualities, Eye, Heavy metal, sperm and semen, Breast, Allergy, Pulse of the heart and brain, Amino acid, Trace element, Human toxin and element, Brain nerve, prostrate, Skin, Collagen, Channels &amp; Cholesterols, Blood lipids, Gynaecology and Composite report.  \n</p><p>BOOK A THERAPY SESSION</p><p><b><br></b></p><p><b>HEALTH AWARENESS PROGRAM</b></p><p>Research shows that the present Average Life Expectancy (ALE) In Nigeria is forty seven (47) years. There is therefore a dare need for all to gain the requisite knowledge and services to address various health challenges – This is where we come in.\n</p><p>&nbsp;At our health awareness program we equip interested individuals, organisations and their human resource as well as their business partners, with preventive and curative information and services that will deliver sound health and equally increase their capacity for work place productivity and lifestyle effectiveness.\n</p><p>Join us at our next awareness program</p><p><br></p><p>\n</p><p>\n</p><p>\n</p><p><b>OPPORTUNITY SEMINARS</b> \n</p><p>Successes are not sure, but opportunities are guaranteed. Learning how to turn the health opportunities into business success is a huge task. At CompleteHealth, we shall expose interested members into wealth building packages, opportunities for recruitments, training and expansion that will generate legitimate revenue and improve yield. You will learn how to spot opportunities, assess opportunities, select and executive CompleteHealth opportunities. \n</p><p>Attend our next Opportunity Seminar \n</p><p>\n</p><p>\n</p><p>(Join us) Let's change it to + Become Our Partner\n</p><p>You can Join the Business Programs, Become Member and Make Money\n</p><p>All you need to do is to  buy products, use them, If it works for you, promote them and get paid for everyone person that you tell about our products.\n</p><p>Our partners deserves only the best. That is exactly what completeHealth is committed to providing.\n</p><p>Once you become a member you get a lot of discounts for the products you buy. You also make money as you get new members to join the MLM program.\n</p><p>If you need more information on becoming our partner kindly send your \n</p><p>\n</p><p>Name .......................\n</p><p>Location................... \n</p><p>Phone Number......................... \n</p><p>Email.............................\n</p><p>We will contact you in 24 hour\n</p><p>\n</p><p>As a partner you will enjoy our \n<span style=\"font-size: 1.07rem;\">Business partners training &nbsp;</span></p><p>We equip a large network of intending business partners with the skills they need to promote our products and services through relationship, they will also recruit and develop a larger network of skilled businesspersons. In exchange, our partners receive huge financial compensations and additional bonuses on the sales volume of those \"down line\" recruited networks. \n</p><p>Become a Partner&nbsp;</p><p><br></p><p><br></p><p>All these and more are some of the things you stand to enjoy ffrom CompleteHealth Solutions.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-4w"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "To Contact Us",
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-4y"
         },
         {
           "_inherit": "social-buttons1",
@@ -984,7 +1059,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#2969b0!important"
             }
           },
           "logo": {
@@ -1003,7 +1078,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solution</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solutions</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-n"
         }
@@ -1549,7 +1624,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solution</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solutions</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-w"
         }
@@ -1608,7 +1683,7 @@
             }
           },
           "title": "How Do You Reach Out To Us?",
-          "text": "<p>Contacting us is easy, below are various ways for you to each us, simply opt for the one most convenient fr you.</p>",
+          "text": "<p>Contacting us is easy, below are various ways for you to reach us, simply opt for the one most convenient for you.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -1878,7 +1953,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solution</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solutions</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-15"
         }
@@ -2473,7 +2548,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solution</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solutions</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-1u"
         }
@@ -2872,7 +2947,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solution</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solutions</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-2m"
         }
@@ -3201,7 +3276,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solution</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solutions</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-2a"
         }
@@ -3635,7 +3710,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solution</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solutions</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-2w"
         }
@@ -4015,7 +4090,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#2969b0!important"
             }
           },
           "logo": {
@@ -4034,7 +4109,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solution</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solutions</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-37"
         }
@@ -4426,7 +4501,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solution</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solutions</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-3h"
         }
@@ -4857,7 +4932,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solution</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solutions</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-3t"
         }
@@ -5256,7 +5331,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solution</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solutions</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-44"
         }
@@ -5687,7 +5762,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solution</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solutions</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-4d"
         }
@@ -6086,7 +6161,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solution</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solutions</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-4o"
         }
@@ -6352,7 +6427,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solution</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CompleteHealth Solutions</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-4u"
         }
